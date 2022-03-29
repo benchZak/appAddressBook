@@ -6,7 +6,6 @@ It is **useful for companies or associations** that's want to share contacts usi
 
 ## Screenshot
 ![Contact List](screenshots/small/ios_contactlist.png)
-![Contact](screenshots/small/ios_contact.png)
 
 ## RESTful API server
 The specification documents to build a **RESTful API server** that works with this application can be found in the "docs/API docs" folder.
